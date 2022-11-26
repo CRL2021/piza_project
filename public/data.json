@@ -1,0 +1,160 @@
+{
+
+  "goods":{
+    "1": {
+      "id":1,
+      "name":"榴莲披萨",
+      "describe":"当日新鲜发酵的饼底加上精选马来西亚苏丹王D24黄金榴莲纯果肉，搭配香浓双倍进口芝士，榴莲和芝士的美妙融合，每口都是大满足。",
+      "img":"/images/llps.jpg",
+
+      "price":30.5,
+      "checked":false
+    },
+    "2":{
+      "id":2,
+      "name":"拉丁烤肠",
+      "describe":"降纤酶肌肉与柔韧猪肉按严谨比例搭配，再加入南美天然香料揉合而成，再现拉丁风情，拥有鲜、香脆且有嚼劲的口感~",
+      "img":"/images/ldkc.jpg",
+      "slide":["/images/yxrs.jpg"],
+      "price":8,
+      "checked":false
+    },
+    "3": {
+      "id":3,
+      "name":"照烧披萨",
+      "describe":"【照烧鸡肉】当日新鲜发酵的饼底加上经过腌制的照烧鸡肉凝聚着日式和风的味道，混合着鲜香的木鱼花，．一口下去全是满足！",
+      "img":"/images/zsps.jpg",
+      "price":25.5,
+      "checked":false
+    },
+    "4": {
+      "id":4,
+      "name":"海鲜披萨",
+      "describe":"当日新鲜发酵的饼底加上用心搭配多种海鲜食材，鲜嫩弹牙，配以菠萝等果蔬，带来不一样的海洋味道。",
+      "img":"/images/hxps.jpg",
+      "price":28,
+      "checked":false
+    },
+    "5":{
+      "id":5,
+      "name":"麦香奶茶",
+      "describe":"是一道闻名中外的特色传统名菜。",
+      "img":"/images/mxnc.jpg",
+      "slide":["/images/tbyy.jpg"],
+      "price":12.5,
+      "checked":false
+    },
+    "6":{
+      "id":6,
+      "name":"百香果双响炮",
+      "describe":"原料:其他",
+      "img":"/images/bxg.jpg",
+
+      "price":12.5,
+      "checked":false
+    },
+    "7":{
+      "id":7,
+      "name":"牛肉披萨",
+      "describe":"是一道闻名中外的特色传统名菜。",
+      "img":"/images/nrps.jpg",
+      "price":23,
+      "checked":false
+    },
+    "8":{
+      "id":8,
+      "name":"夏威夷披萨",
+      "describe":"【清新之选】当日新鲜发酵的饼底加上火腿与菠萝的交相辉映，一品鲜美香甜，每一 口都会让你欣然感受夏威夷般的自然与惬意。",
+      "img":"/images/xwyps.jpg",
+
+      "price":29,
+      "checked":false
+    },
+    "9":{
+      "id":9,
+      "name":"蜜香鸡翅",
+      "describe":"商品信息:1份3只",
+      "img":"/images/mxjc.jpg",
+      "slide":["/images/mpdf.jpg"],
+      "price":14,
+      "checked":false
+    },
+    "10":{
+      "id":10,
+      "name":"咔嗞鸡块",
+      "describe":"商品信息:一份5块",
+      "img":"/images/kzjk.jpg",
+      "slide":["/images/tbnl.jpg"],
+      "price":12,
+      "checked":false
+    },
+    "11":{
+      "id":11,
+      "name":"韩式鱿鱼大虾面",
+      "describe":"Q弹大虾与饱满的鲜鱿肉，融合海鲜汁焗烤，口感爽滑，无法忘怀。",
+      "img":"/images/hxym.jpg",
+      "price":17.6,
+      "checked":false
+    },
+    "12":{
+      "id":12,
+      "name":"咖喱牛肉焗饭",
+      "describe":"推荐指数5颗星，最爱的芝士焗咖喱牛肉饭，牛肉口感松软，搭配地道美味的咖喱酱，配比新西兰安佳进口马苏里拉芝士，味道纯正无比。",
+      "img":"/images/nrjf.jpg",
+      "price":21,
+      "checked":false
+    }
+  },
+
+
+  "goods_cls": [
+    {
+      "id": 1,
+      "name": "热销",
+      "goods": [1, 3, 4, 9]
+    },
+    {
+      "id": 2,
+      "name": "TOP推荐",
+      "goods": [1, 2, 3, 4, 6, 7, 8 ,9]
+    },
+    {
+      "id": 3,
+      "name": "小吃饮料",
+      "goods": [5, 10, 6]
+    },
+    {
+      "id": 4,
+      "name": "焗饭意面",
+      "goods": [11, 12]
+    }
+  ],
+    "news_goods": {
+      "3": {
+        "id":3,
+        "name":"照烧披萨",
+        "describe":"【照烧鸡肉】当日新鲜发酵的饼底加上经过腌制的照烧鸡肉凝聚着日式和风的味道，混合着鲜香的木鱼花，．一口下去全是满足！",
+        "img":"/images/zsps.jpg",
+        "price":25.5,
+        "checked":false
+      },
+      "9":{
+        "id":9,
+        "name":"蜜香鸡翅",
+        "describe":"商品信息:1份3只",
+        "img":"/images/mxjc.jpg",
+        "slide":["/images/mpdf.jpg"],
+        "price":14,
+        "checked":false
+      },
+      "12":{
+        "id":12,
+        "name":"咖喱牛肉焗饭",
+        "describe":"推荐指数5颗星，最爱的芝士焗咖喱牛肉饭，牛肉口感松软，搭配地道美味的咖喱酱，配比新西兰安佳进口马苏里拉芝士，味道纯正无比。",
+        "img":"/images/nrjf.jpg",
+        "price":21,
+        "checked":false
+      }
+    }
+	
+}
